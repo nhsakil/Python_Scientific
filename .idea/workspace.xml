@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccf6e13a-719e-4718-9a39-3005d59d7c0e" name="Changes" comment="OOP">
-      <change afterPath="$PROJECT_DIR$/Python_scripts/Inheritance_Scientific.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_scripts/ModularProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_scripts/Numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_scripts/Objects_as_Attribbutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_scripts/Solver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_scripts/Student_Course_Class.py" afterDir="false" />
+    <list default="true" id="ccf6e13a-719e-4718-9a39-3005d59d7c0e" name="Changes" comment="numpy">
+      <change afterPath="$PROJECT_DIR$/Python_scripts/SciPy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment_Template_coding.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_Template_coding.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment_Template_coding.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_Template_coding.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_scripts/Class_Object.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_scripts/Class_Object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_scripts/Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_scripts/Numpy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,28 +34,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/whatsapp-bulk-messenger-primary/pythonProject/Databases with Python/Inheritance.py",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/whatsapp-bulk-messenger-primary/pythonProject/Databases with Python/Inheritance.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\whatsapp-bulk-messenger-primary\Python_Scientific" />
       <recent name="E:\whatsapp-bulk-messenger-primary\Python_Scientific\Python_scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Numpy">
+  <component name="RunManager" selected="Python.matplotlib_plot">
     <configuration name="Guess_number" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_Scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Objects_as_Attribbutes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SciPy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_scripts/Objects_as_Attribbutes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_scripts/SciPy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Solver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_scripts/Solver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_scripts/matplotlib.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Student_Course_Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matplotlib_plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,7 +173,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_scripts/Student_Course_Class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_scripts/matplotlib_plot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.matplotlib_plot" />
+        <item itemvalue="Python.matplotlib" />
+        <item itemvalue="Python.SciPy" />
         <item itemvalue="Python.Numpy" />
         <item itemvalue="Python.ModularProgramming" />
-        <item itemvalue="Python.Solver" />
-        <item itemvalue="Python.Student_Course_Class" />
-        <item itemvalue="Python.Objects_as_Attribbutes" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693696707769</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="numpy">
+      <created>1695057441888</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695057441888</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +261,7 @@
     <MESSAGE value="exception" />
     <MESSAGE value="Function by reference" />
     <MESSAGE value="OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
+    <MESSAGE value="numpy" />
+    <option name="LAST_COMMIT_MESSAGE" value="numpy" />
   </component>
 </project>
